@@ -1,0 +1,19 @@
+ /* .leftcolumn {
+     padding: 0px;
+     width: 200px;
+     color: black;
+     position: relative;
+     float: left;
+     background-color: #dad6c8;
+     border: none;
+     border-bottom-left-radius: 10px;
+ }; */
+
+.content {
+     position: relative;
+     width: 180px;
+     margin: 7px;
+     color: #731d08;
+     margin-left: 29px;
+     display: block
+ }
